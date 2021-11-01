@@ -1,0 +1,6 @@
+{
+  "name": "@message-hub/provider",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
